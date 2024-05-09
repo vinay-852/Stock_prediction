@@ -20,6 +20,8 @@ High: The highest price at which the stock traded during the day.<br>
 Low: The lowest price at which the stock traded during the day.<br>
 Close: The final price at which the stock was traded when the market closed on that day.<br>
 Volume: The number of shares that were traded during the day.
+<br><br>
+Dataset: https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
 
 ### Model: LSTM sequential reggesor
 
